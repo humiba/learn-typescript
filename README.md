@@ -34,3 +34,6 @@ export default {
 - TailwindCSS Animate Plugin: [https://github.com/jamiebuilds/tailwindcss-animate]
 
 - Shadcn/UI (Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.): [https://ui.shadcn.com/]
+
+- Appwrite usages:
+1. Create new Account with Appwrite: [https://appwrite.io/docs/references/cloud/client-web/account]
