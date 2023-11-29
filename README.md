@@ -35,5 +35,9 @@ export default {
 
 - Shadcn/UI (Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.): [https://ui.shadcn.com/]
 
+- What is Zod: [Zod is a TypeScript-first schema declaration and validation library. I'm using the term "schema" to broadly refer to any data type, from a simple string to a complex nested object.](https://zod.dev/?id=introduction)
+
+- TanStack Query: [TanStack Query (FKA React Query) is often described as the missing data-fetching library for web applications, but in more technical terms, it makes fetching, caching, synchronizing and updating server state in your web applications a breeze.](https://tanstack.com/query/latest/docs/react/overview)
+
 - Appwrite usages:
 1. Create new Account with Appwrite: [https://appwrite.io/docs/references/cloud/client-web/account]
